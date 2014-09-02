@@ -5,6 +5,4 @@ WordPress Dashboard Widget For Rackspace Cloud Monitoring Tool and Cloud Intelli
 
 copy all that file in one as raw. This is template. There is no rackspace function. 
 
-https://s.w.org/plugins/wordpress-server-load-monitor/screenshot-1.png?r=976862
-
 ![current situation](https://s.w.org/plugins/wordpress-server-load-monitor/screenshot-1.png)
